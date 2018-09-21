@@ -1,0 +1,38 @@
+ Click on VMto Harry Joseph Dsilva (privately):-> connectto Harry Joseph Dsilva (privately):->Download RDPto Harry Joseph Dsilva (privately):-> click on downloaded RPD fileto Harry Joseph Dsilva (privately):-> connect
+from Haritha to Everyone:
+yes
+from Harry Joseph Dsilva to Everyone:
+-> Add Account
+from Harry Joseph Dsilva to Everyone:
+-> enter Azure Account info
+from Harry Joseph Dsilva to Everyone:
+-> personal acc
+to Harry Joseph Dsilva (privately):
+doing ...give me 2 min
+from Harry Joseph Dsilva to Everyone:
+pls. confirm .. once Visual studio , activation is done
+from Haritha to Everyone:
+yes its done 
+from preethi kumari to Everyone:
+sir, could not connect to VM
+to Harry Joseph Dsilva (privately):
+Unable to connect VM 
+to Harry Joseph Dsilva (privately):
+getting some error
+to Harry Joseph Dsilva (privately):
+No\
+to Harry Joseph Dsilva (privately):
+Inside ODC
+to Harry Joseph Dsilva (privately):
+oh ok
+from preethi kumari to Everyone:
+Sir, need VM name
+from Harry Joseph Dsilva to Everyone:
+->File->new Project
+from Harry Joseph Dsilva to Everyone:
+-> C# -> Cloud category	
+
+
+DS1_v1/ DS1_v2 - 3.5 gb ram
+
+http://07ef0f7ac8a546d09b87ed6384d6c313.cloudapp.net/
